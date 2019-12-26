@@ -1,0 +1,6 @@
+1. usuario y passwor para probar el login del servicio web
+
+usuario: nca@hotmail.com
+password : 123456Uis*2
+
+2. El script de la base de datos esta en la carpeta ScriptBaseDatos
